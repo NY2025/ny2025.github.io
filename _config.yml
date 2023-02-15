@@ -62,9 +62,9 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 65bd0ea3aea49e139893
-  clientSecret: d6a5fda0e1311529302fe0abee459247f6b2a78a
-  repo: ny2025xieyc.github.io
+  clientID: 9ca56d5b66267faefc9a
+  clientSecret: 1cbe1230fb53bff9e7d503d564bc619e8498ba41
+  repo: ny2025.github.io
   owner: NY2025
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
